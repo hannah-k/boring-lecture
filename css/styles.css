@@ -1,0 +1,12 @@
+.intro {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+img.intro {
+  border-radius: 8px;
+  display: block;
+  width: 45%;
+  margin: auto;
+}
